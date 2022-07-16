@@ -1,0 +1,6 @@
+#container {
+    display: flex;
+    width: 680px;
+    height: 680px;
+    flex-wrap: wrap;
+}
